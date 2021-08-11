@@ -1,5 +1,5 @@
 <?php
-echo('index.php<br> ');
+echo('index.php<br>');
 echo(ini_get('max_execution_time'));
 ?>
 <!DOCTYPE html>
